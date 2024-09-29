@@ -26,12 +26,12 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 1. Describe your project.
 
-   - The project 
+   - The project paints a simple cute blue puppy with 3 main colors. I decided to paint a puppy because I think it would look really cute and easy to code. 
 
 2. What are two things about your project that you are proud of?
 
-   - The dog's mouth method and because it took long time to code and 
+   - The dog's mouth method because it took a long time to code, and the color because it looks pretty.
 
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
 
-   - Write your response here...
+   - If I had an opportunity to change something about my project, I would create more shortcuts so it would save some time of coding.
