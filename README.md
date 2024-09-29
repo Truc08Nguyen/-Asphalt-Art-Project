@@ -18,9 +18,9 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 ## Output:
 
-!(https://github.com/user-attachments/assets/ca88167f-5071-42c4-b935-4fe926494970))
+![sketch](https://github.com/user-attachments/assets/ca88167f-5071-42c4-b935-4fe926494970)
 
-!(https://github.com/user-attachments/assets/963bc22a-24b3-4d56-ad0a-7cfa1278134a))
+![final](https://github.com/user-attachments/assets/963bc22a-24b3-4d56-ad0a-7cfa1278134a)
 
 ## Reflection
 
