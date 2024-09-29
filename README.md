@@ -18,7 +18,8 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 ## Output:
 
-< Put sketch / Final image here >
+![Sketch]()
+![final](![Screenshot 2024-09-28 231420](https://github.com/user-attachments/assets/963bc22a-24b3-4d56-ad0a-7cfa1278134a)
 
 ## Reflection
 
